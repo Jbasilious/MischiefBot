@@ -1,6 +1,0 @@
-Command.java
- Command
-Config.java
- Config
-Main.java
- Main
